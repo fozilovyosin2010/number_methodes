@@ -17,3 +17,8 @@
 // let num = 34;
 // let print = Math.ceil(num);
 // console.log(print); if the num is desimall that will show num+1
+
+//Math Max
+
+// let nums = Math.max(12, 4, 60, 3);
+// console.log(nums); it'll show the max (60)
