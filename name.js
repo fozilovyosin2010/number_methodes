@@ -27,3 +27,8 @@
 
 // let nums = Math.min(3, 45, 6, -1);
 // console.log(nums); it'll show the min num (-1)
+
+//Math abs()
+
+// let num = Math.abs(-23);
+// console.log(num); it'll show only positive numbers
