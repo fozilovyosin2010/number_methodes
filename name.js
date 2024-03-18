@@ -22,3 +22,8 @@
 
 // let nums = Math.max(12, 4, 60, 3);
 // console.log(nums); it'll show the max (60)
+
+//Math Min
+
+// let nums = Math.min(3, 45, 6, -1);
+// console.log(nums); it'll show the min num (-1)
